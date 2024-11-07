@@ -94,5 +94,4 @@ Contributions are welcome! Feel free to submit issues or pull requests. Please a
 
                                                 License
                                                 
-MIT License (or specify another license if applicable)
-
+MIT License
